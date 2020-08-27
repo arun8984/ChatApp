@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <im.vector.preference.VectorPreferenceCategory
+        android:key="SETTINGS_USER_SETTINGS_PREFERENCE_KEY"
+        android:title="@string/settings_user_settings">
+
+        <im.vector.preference.UserAvatarPreference
+            android:key="SETTINGS_PROFILE_PICTURE_PREFERENCE_KEY"
+            android:title="@string/settings_profile_picture" />
+
+        <im.vector.preference.VectorEditTextPreference
+            android:key="SETTINGS_DISPLAY_NAME_PREFERENCE_KEY"
+            android:summary="@string/settings_display_name"
+            android:title="@string/settings_display_name" />
+
+
+    </im.vector.preference.VectorPreferenceCategory>
+
+</PreferenceScreen>

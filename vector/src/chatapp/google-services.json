@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011053714420",
+    "firebase_url": "https://fnfcall-f9ac4.firebaseio.com",
+    "project_id": "fnfcall-f9ac4",
+    "storage_bucket": "fnfcall-f9ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011053714420:android:41ad5537c88456d2be37a1",
+        "android_client_info": {
+          "package_name": "com.fnfcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011053714420-3cbqrkdo3g2bb7a5m547fpf7v23dla4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4z2U6jPc9ehPGvYWIxM_rRxCLpuameE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011053714420-3cbqrkdo3g2bb7a5m547fpf7v23dla4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
