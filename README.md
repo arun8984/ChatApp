@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Riot-Android [![Buildkite](https://badge.buildkite.com/5ae4f24dd485562a5b59a9f84d866e5eed3d100223423757f2.svg?branch=develop)](https://buildkite.com/matrix-dot-org/riot-android) [![Weblate](https://translate.riot.im/widgets/riot-android/-/svg-badge.svg)](https://translate.riot.im/engage/riot-android/?utm_source=widget) [![Android Matrix room #riot-android:matrix.org](https://img.shields.io/matrix/riot-android:matrix.org.svg?label=%23riot-android:matrix.org&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#riot-android:matrix.org) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=vector.android.riot&metric=alert_status)](https://sonarcloud.io/dashboard?id=vector.android.riot) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=vector.android.riot&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=vector.android.riot) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=vector.android.riot&metric=bugs)](https://sonarcloud.io/dashboard?id=vector.android.riot)
 ============
 
@@ -125,3 +126,6 @@ FAQ
 2. Where the apk is generated?
 
 	> Riot/build/outputs/apk
+=======
+# ChatApp
+>>>>>>> e6b617d65f31f3dd2fa46d31bdddd8c9bdb10775
